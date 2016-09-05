@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<querylist>
+	<query name="* из справочник">
+		<text>выбрать * из справочник.валюты
+</text>
+	</query>
+</querylist>
